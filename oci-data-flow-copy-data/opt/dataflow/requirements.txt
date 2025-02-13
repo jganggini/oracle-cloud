@@ -1,0 +1,9 @@
+azure-storage-file-datalake==12.4.0
+azure-identity==1.6.1
+requests==2.12.5
+oci==2.45.1
+
+
+
+
+

@@ -1,0 +1,13 @@
+[LOCAL]
+user=ocid1.user.oc1..aaaaaaaawbh6e75hxk3st7athfu3ocaj76sbyewl5bf7f4pef6hs23aje7eq
+fingerprint=5e:2e:a8:fe:25:4d:21:09:56:d8:b2:56:d5:24:68:11
+tenancy=ocid1.tenancy.oc1..aaaaaaaavl2ndgiiefoo2u4a7atlq2czcwyiu5zzb6rzwwpeyt5o2xmtaxwa
+region=us-ashburn-1
+key_file=./src/.oci/oracleidentitycloudservice_joel.ganggini-09-20-23-15.pem
+
+[DATAFLOW]
+user=ocid1.user.oc1..aaaaaaaawbh6e75hxk3st7athfu3ocaj76sbyewl5bf7f4pef6hs23aje7eq
+fingerprint=5e:2e:a8:fe:25:4d:21:09:56:d8:b2:56:d5:24:68:11
+tenancy=ocid1.tenancy.oc1..aaaaaaaavl2ndgiiefoo2u4a7atlq2czcwyiu5zzb6rzwwpeyt5o2xmtaxwa
+region=us-ashburn-1
+key_file=/opt/dataflow/python/lib/python3.6/site-packages/src/.oci/oracleidentitycloudservice_joel.ganggini-09-20-23-15.pem

@@ -1,0 +1,6 @@
+fdk==0.1.50
+oci==2.90.0
+oracledb==1.2.1
+pandas==1.5.2
+pathlib==1.0.1
+pytest==5.4.3
